@@ -1,0 +1,27 @@
+
+
+body {
+    background-color: black;
+}
+
+.vano {
+    width: 1000px;
+    margin: 0 auto;
+    height: 700px;
+    background-color: black;
+    align-items: center;
+}
+.vano h1 {
+    font-size: 70px;
+    color: white;
+   
+}
+.img {
+    object-fit: cover;
+    margin-left: 300px;
+}
+.giji-vano {
+    margin-left: 300px;
+    font-size: 70px;
+    color: white;
+}
